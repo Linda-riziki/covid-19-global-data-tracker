@@ -27,3 +27,26 @@ In this project, I performed an **Exploratory Data Analysis (EDA)** of global **
 
 The dataset was obtained from:
 🔗 [Our World in Data - OWID](https://covid.ourworldindata.org/data/owid-covid-data.csv )
+
+## Project Insights
+# Project Insights
+
+## 1. Total Deaths Comparison
+
+**Brazil** had the highest number of total deaths among all selected countries.
+
+## 2. Daily New Cases Trends
+
+**Germany** and **France** experienced multiple waves but managed to control daily case increases effectively.
+
+## 3. Vaccination Rollout
+
+**Germany** and **France** vaccinated their populations faster than **Brazil** and **Japan**, which likely contributed to better outcomes.
+
+## 4. Death Rate Analysis
+
+Despite high case numbers, **Japan** maintained one of the lowest death rates, suggesting effective public health strategies.
+
+## 5. Correlation Between Metrics
+
+There is a strong positive correlation between total cases and total deaths, highlighting the importance of containment measures.
