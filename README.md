@@ -1,4 +1,4 @@
-# covid-19-global-data-tracker
+# Covid-19-global-data-tracker
 
 # Project: COVID-19 Global Data Tracker
 
@@ -17,7 +17,6 @@ In this project, I performed an **Exploratory Data Analysis (EDA)** of global **
 - **Python**
 - **Pandas** – For data cleaning and manipulation
 - **Matplotlib / Seaborn** – For data visualization
-- **Plotly (optional)** – For interactive maps
 - **Jupyter Notebook** – For interactive development and reporting
 
 ## Dataset Source
